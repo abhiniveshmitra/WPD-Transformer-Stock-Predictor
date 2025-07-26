@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+yfinance
+torch
+scikit-learn
+fredapi
+tqdm
+pywavelets
